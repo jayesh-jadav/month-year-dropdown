@@ -3,7 +3,7 @@
 <div align="center">
 <h2 align="center">📽️ Demo</h2>
 <p align="center">
-  <img src="./Assets/demo.gif" width="300" />
+  <img src="https://github.com/jayesh-jadav/my-picker/blob/main/assets/demo.gif" width="300" />
 </p>
 </div>
 
