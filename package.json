@@ -1,4 +1,30 @@
 {
-  "name": "month-year-picker",
-  "packageManager": "yarn@4.5.2"
+  "name": "rn-month-year-dropdown-picker",
+  "version": "1.0.6",
+  "description": "A simple month and year dropdown picker for React Native",
+  "main": "dist/index.js",
+  "types": "dist/index.d.tsx",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react-native",
+    "month-picker",
+    "year-picker",
+    "dropdown"
+  ],
+  "author": "Jayesh Jadav",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.63.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.70.0"
+  }
 }
