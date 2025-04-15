@@ -1,10 +1,10 @@
 # rn-month-year-dropdown-picker
 
 <div align="center">
-<h2 align="center">📽️ Demo</h2>
-<p align="center">
-  <img src="https://github.com/jayesh-jadav/month-year-dropdown/tree/main/Assets/demo.gif" width="300" />
-</p>
+  <h2 align="center">📽️ Demo</h2>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/jayesh-jadav/month-year-dropdown/main/Assets/demo.gif" width="300" />
+  </p>
 </div>
 
 A simple and customizable month and year dropdown picker for React Native.
